@@ -52,14 +52,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://null.com.git"
+    "url": "git+https://github.com/Mazzz-zzz/react-native-ios-app-groups.git"
   },
   "author": "Almaz K <34670358+Mazzz-zzz@users.noreply.github.com> (https://cybergarden.au)",
   "license": "MIT",
   "bugs": {
-    "url": "https://null.com/issues"
+    "url": "https://github.com/Mazzz-zzz/react-native-ios-app-groups/issues"
   },
-  "homepage": "https://null.com#readme",
+  "homepage": "https://github.com/Mazzz-zzz/react-native-ios-app-groups#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
