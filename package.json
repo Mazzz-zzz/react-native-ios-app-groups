@@ -180,5 +180,6 @@
     "type": "legacy-module",
     "languages": "kotlin-objc",
     "version": "0.45.5"
-  }
+  },
+  "types": "./src/index.d.ts"
 }
