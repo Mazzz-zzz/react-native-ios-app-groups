@@ -1,6 +1,6 @@
 {
   "name": "react-native-ios-app-groups",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Fetch app group path from ios so you can access them in react native",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
