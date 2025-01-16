@@ -28,3 +28,10 @@ export function getContainerURL(groupIdentifier: string): Promise<string> {
 export function multiply(a: number, b: number): Promise<number> {
   return IosAppGroups.multiply(a, b);
 }
+
+export function setBadgeCount(groupIdentifier: string, count: number): Promise<string> {
+  if (Platform.OS !== 'ios') {
+    throw new Error('IosAppGroups is only available on iOS');
+  }
+  return IosAppGroups.setBadgeCount(groupIdentifier, count);
+}
